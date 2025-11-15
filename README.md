@@ -48,7 +48,7 @@ This project showcases an advanced multi-agent architecture that combines:
 
 ## 🛠️ Tool Library
 
-The system includes 7 specialized tools:
+The system includes seven specialized tools:
 
 | Tool | Category | Purpose |
 |------|----------|---------|
@@ -94,7 +94,7 @@ Architecture: Think-Act-Observe Loop with Parallel Execution
 
 [Processing queries...]
 
-✅ Successfully processed 3 customer queries
+✅ Successfully processed three customer queries
 📊 Total queries in history: 3
 🤖 Agents deployed: 5
 🛠️  Tools available: 7
@@ -267,10 +267,10 @@ class CustomAgent(AdaptiveAgent):
 
 ## 🧪 Testing
 
-The system includes 3 real-world test scenarios:
+The system includes three real-world test scenarios:
 
 ```
-1. Billing Issue: "I was charged twice for my subscription"
+1. Billing Issue: "I was charged twice for my subscription."
    → Routes to: Billing Agent
    → Tools: check_invoice, process_refund
    
@@ -278,7 +278,7 @@ The system includes 3 real-world test scenarios:
    → Routes to: Order Agent
    → Tools: get_order_status
    
-3. Account Access: "I can't log into my account"
+3. Account Access: "I can't log into my account."
    → Routes to: Technical Support Agent
    → Tools: search_knowledge_base, check_system_logs
 ```
@@ -303,9 +303,9 @@ python multi_agent_customer_support.py
 
 ### Related Articles
 
-- [Building Multi-Agent Systems](https://medium.com/@yourusername/building-multi-agent-systems)
-- [Think-Act-Observe Loop Explained](https://medium.com/@yourusername/think-act-observe-loop)
-- [Parallel Execution in AI](https://medium.com/@yourusername/parallel-execution-ai)
+- [Building Multi-Agent Systems]()
+- [Google Agent Development Kit (ADK](https://google.github.io/adk-docs/)
+- [Vertex AI Documentation](https://cloud.google.com/vertex-ai)
 
 ## 🏆 Use Cases
 
@@ -331,14 +331,8 @@ Contributions welcome! Areas for improvement:
 
 MIT License - feel free to use in your projects!
 
-## 👨‍💻 Author
-
+## Note:
 Created as a practical demonstration of multi-agent AI systems with Agent Garden architecture.
 
-## 📧 Questions?
-
-- Open an issue on GitHub
-- Check the documentation
-- Review the test queries for examples
 
 ---
