@@ -1,6 +1,6 @@
 """
 Multi-Agent Customer Support System with Agent Garden AI
-Complete Implementation - Production Ready for Medium
+Complete Implementation 
 =====================================================
 
 This implementation demonstrates:
@@ -11,8 +11,7 @@ This implementation demonstrates:
 - Memory management
 - Comprehensive logging
 
-Author: [Your Name]
-Date: November 2025
+
 """
 
 import asyncio
