@@ -343,5 +343,5 @@ Created as a practical demonstration of multi-agent AI systems with Agent Garden
 
 ---
 
-**Ready to deploy? Check out the production setup guide in `DEPLOYMENT.md`**
+
 
