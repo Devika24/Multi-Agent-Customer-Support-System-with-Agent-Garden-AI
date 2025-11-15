@@ -1,6 +1,6 @@
 ╔════════════════════════════════════════════════════════════════════════╗
 ║          🚀 MULTI-AGENT CUSTOMER SUPPORT SYSTEM - START HERE 🚀       ║
-║                     READY FOR GITHUB & MEDIUM                         ║
+║                     READY FOR GITHUB & MEDIUM                          ║
 ╚════════════════════════════════════════════════════════════════════════╝
 
 ✅ STATUS: PRODUCTION READY & TESTED
